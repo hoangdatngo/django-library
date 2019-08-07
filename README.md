@@ -1,8 +1,6 @@
 #Library Online Management System written in Django
 ---
 
-####Link: http://django-library.herokuapp.com/
-
 **Technologies**: django, python, html, css, less, Java Script, jQuery, Twitter Bootstrap, Git, Heroku, Selenium,
 django_tables2, fandjango, Google App Engine (by CodeShip)
 
@@ -51,7 +49,6 @@ created by sphinx.
 python manage.py runserver 127.0.0.1:8888
 ```
 
-(do not forget to change database settings if you want to run app locally) or simply **visit website: 
-http://django-library.herokuapp.com/**
+(do not forget to change database settings if you want to run app locally)
 
 **Author: Tomasz Potanski, tomasz@potanski.pl**
